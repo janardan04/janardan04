@@ -1,96 +1,160 @@
-<div align="center">
-  <img src="https://github.com/Janardan04/Janardan04/blob/main/banner.png" alt="Banner" />
-</div>
-
-# Hi 👋, I'm Janardhan Borse
-## A passionate Computer Science student from India | Tech Explorer | Lifelong Learner
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hello World! I'm Janardhan Borse
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Coding" width="500" />
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Tech+Enthusiast;Problem+Solver+%7C+Code+Craftsman;Building+Tomorrow's+Solutions+Today!)](https://git.io/typing-svg)
+  
 </div>
 
-- 🎨 I love combining code with creativity
-- 📈 Currently exploring Full-Stack Development
-- 🚀 Learning Spring Boot, MongoDB and System Design
-- 😎 Fun Fact: I enjoy debugging more than coding sometimes!
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Janardan04&color=blue)
+## 🚀 About Me
 
-<hr>
+```typescript
+const janardhan = {
+    location: "India 🇮🇳",
+    role: "Computer Science Student",
+    passion: ["Full-Stack Development", "Problem Solving", "System Design"],
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with the enthusiasm of a detective solving mysteries!",
+    lifePhilosophy: "Code with purpose, learn with curiosity"
+};
+```
 
-### Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/janardan-borase-25a546232/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"></a>
-  <a href="https://instagram.com/janardhan_borse/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"></a>
-  <a href="https://x.com/borase_janardan" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" height="30" width="40"></a>
-  <a href="https://janardan04.github.io/Janardanborse-Portfolio/" target="_blank"> ✨ View Portfolio </a>
-</p>
+### 🎯 Current Journey
+- 🔥 **Mastering:** Spring Boot ecosystem & microservices architecture
+- 🌱 **Exploring:** MongoDB, Redis, and distributed systems
+- 🎨 **Crafting:** Intuitive user experiences with React
+- 📚 **Learning:** System design patterns and scalable architectures
+- 🤝 **Open to:** Collaborate on innovative projects
 
-<hr>
+---
 
-### Coding Platforms:
-<p align="left">
-  <a href="https://leetcode.com/u/Janardhan_04/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat-square&logo=leetcode&logoColor=black"></a>
-  <a href="https://www.hackerrank.com/profile/janardhanborse21" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%01020f.svg?&style=flat-square&logo=hackerrank&logoColor=white"></a>
-  <a href="https://www.geeksforgeeks.org/user/janardhanbhowd/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-1f8b4c?style=flat-square&logo=geeksforgeeks&logoColor=white"></a>
-</p>
+## 🏆 Coding Arena
 
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/Janardhan_04?theme=dark&ext=heatmap" />
-</p>
-
-<hr>
-
-### Languages:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40">
-</p>
-
-### Frameworks:
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40">
-</p>
-
-### Frontend:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40">
-</p>
-
-### Databases:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40">
-</p>
-
-### Tools:
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40">
-</p>
-
-<hr>
-
-### GitHub Stats:
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janardan04&show_icons=true&locale=en" />
+<div align="center">
+  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Janardhan_04?theme=unicorn&font=Baloo&ext=heatmap)
+  
 </div>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Janardan04&show_icons=true&locale=en&layout=compact" />
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 Platforms I Conquer
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Janardhan_04/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/janardhanborse21)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/janardhanbhowd/)
+
+</td>
+<td width="50%">
+
+### 📊 Problem Solving Stats
+- 🔥 **Active Streak:** Daily coding practice
+- 💡 **Problems Solved:** 200+ across platforms
+- 🎯 **Focus Areas:** DSA, System Design, Algorithms
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Core Technologies
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Frontend Universe
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Frameworks
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Databases & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janardan04" />
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Janardan04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Janardan04&theme=tokyonight&hide_border=true" />
 </div>
 
-<hr>
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janardan04&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</div>
 
-### Support Me:
-<p align="left">
-  <a href="https://www.buymeacoffee.com/janardanborse" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="110"></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Janardan04&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffeb95&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Janardan04&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+### Find me across the digital universe:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://janardan04.github.io/Janardanborse-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janardan-borase-25a546232/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/borase_janardan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/janardhan_borse/)
+
+### 💫 Support My Journey
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/janardanborse)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🌟 "Code is poetry written in logic" 
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Janardan04&color=brightgreen&style=for-the-badge)
+  
+  ⭐ **Star my repositories if you find them helpful!** ⭐
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
