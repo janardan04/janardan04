@@ -140,8 +140,8 @@ const janardhan = {
 
 ### 💫 Support My Journey
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/janardanborse)
-
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/janardhan_borse)
+<!--https://coff.ee/janardhan_borse-->
 </div>
 
 ---
