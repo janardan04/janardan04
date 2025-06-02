@@ -1,4 +1,4 @@
- Hello World! I'm Janardhan Borse
+# Hello World! I'm Janardhan Borse
 
 <div align="center">
   
@@ -36,22 +36,33 @@ const janardhan = {
   
 </div>
 
+<div align="center">
+  
+  ### 🟢 GeeksforGeeks Profile
+  
+  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/janardhanbhowd/)
+  
+  ![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=janardhanbhowd&theme=dark)
+  
+</div>
+
 <table>
 <tr>
 <td width="50%">
 
 ### 🎮 Platforms I Conquer
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Janardhan_04/)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/janardhanborse21)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/janardhanbhowd/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/janardhanborse21)
 
 </td>
 <td width="50%">
 
 ### 📊 Problem Solving Stats
 - 🔥 **Active Streak:** Daily coding practice
-- 💡 **Problems Solved:** 200+ across platforms
+- 💡 **Problems Solved:** 300+ across platforms
 - 🎯 **Focus Areas:** DSA, System Design, Algorithms
+- 🏆 **GFG Rank:** #1235748 (and climbing!)
 
 </td>
 </tr>
