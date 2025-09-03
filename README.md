@@ -23,7 +23,7 @@ const janardhan = {
 
 ### 🎯 Current Journey
 - 📈 **Currently exploring:** Full-Stack Development
-- 🚀 **Learning:** Spring Boot, DSA
+- 🚀 **Learning:** React, DSA,Cloud
 - 🤝 **Open to:** Collaborate on innovative projects
 
 ---
