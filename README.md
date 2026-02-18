@@ -62,7 +62,7 @@ const janardhan = {
 - 🔥 **Active Streak:** Daily coding practice
 - 💡 **Problems Solved:** 300+ across platforms
 - 🎯 **Focus Areas:** DSA, System Design, Algorithms
-- 🏆 **GFG Rank:** #1235748 (and climbing!)
+- 🏆 **GFG Rank:** #13 (and climbing!)
 
 </td>
 </tr>
